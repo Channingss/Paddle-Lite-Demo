@@ -135,10 +135,19 @@ $ git clone https://github.com/PaddlePaddle/Paddle-Lite-Demo
       - CPU预测结果（测试环境：华为nova5）
 
       ![android_object_detection_dog_npu](doc/android_object_detection_dog_cpu.jpg)
-
       - NPU预测结果（测试环境：华为nova5）
 
       待支持
+
+    * deeplab3+mobilnetv2 人像分割
+
+      - CPU预测结果（测试环境：红米note2）
+      ![android_human_segmentation_human_cpu](https://paddlelite-demo.bj.bcebos.com/doc/human_segmentation.jpeg)
+
+    * ultra_light_fast_generic_face_detector_1mb_320 人脸检测
+
+      - CPU预测结果（测试环境：红米note2）
+      ![android_face_detection_crowd_cpu](https://paddlelite-demo.bj.bcebos.com/doc/face_detection.jpeg)
 
 * ARMLinux
      * mobilenetv1 目标分类
